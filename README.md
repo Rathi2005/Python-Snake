@@ -12,7 +12,7 @@ Bash
 *pip install pygame*
 Use code with caution.
 
-Add Audio Files:
+2. Add Audio Files:
 
 The game includes placeholders for background music and sound effects. To enable these features:
 
@@ -21,7 +21,8 @@ Place your desired audio files or the audio files uploaded in the repository (MP
 Ensure the audio filenames match the ones specified in the code (Beep Short.mp3 and game-over-arcade-6435.mp3).
 
 ### How to Play
-Run the game:
+
+3. Run the game:
 
 Bash
 *python snake.py*  # Replace "snake.py" with your actual script name if different
