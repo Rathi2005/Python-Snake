@@ -9,7 +9,7 @@ This is a classic Snake game written in Python using the Pygame library.
 If you don't have Pygame installed, you can do so using pip:
 
 Bash
-*pip install pygame*
+***pip install pygame***
 Use code with caution.
 
 2. Add Audio Files:
@@ -25,7 +25,7 @@ Ensure the audio filenames match the ones specified in the code (Beep Short.mp3 
 3. Run the game:
 
 Bash
-*python snake.py*  # Replace "snake.py" with your actual script name if different
+***python snake.py***  # Replace "snake.py" with your actual script name if different
 Use code with caution.
 
 >> Use the arrow keys (Up, Down, Left, Right) to control the snake's movement.
